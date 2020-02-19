@@ -71,7 +71,7 @@ bangumi:
  ```
    menu:
       Home: /
-      Books: /books 
+      追番: /bangumis 
  ```
 
 ## 示例
