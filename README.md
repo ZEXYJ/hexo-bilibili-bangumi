@@ -68,11 +68,11 @@ bangumi:
 ## 显示
 如果上面的显示没有问题就可以在主题的配置文件 _config.yml 里添加如下配置来为这些页面添加菜单链接.
    
-   ```markdown
+ ```
    menu:
       Home: /
       Books: /books 
-    ```
+ ```
 
 ## 示例
 
