@@ -65,6 +65,12 @@ bangumi:
 
 ***需要将追番列表设置为公开！***
 
+## 显示
+如果上面的显示没有问题就可以在主题的配置文件 _config.yml 里添加如下配置来为这些页面添加菜单链接.
+menu:
+  Home: /
+  Books: /books 
+
 ## 示例
 
 ![示例图片](https://github.com/HCLonely/hexo-bilibili-bangumi/raw/master/example.png)
